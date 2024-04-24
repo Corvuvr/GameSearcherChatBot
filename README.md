@@ -8,7 +8,7 @@
 - Искать игру в базе данных по трём критериям: жанрам, дате выхода и оценке на metacritic.
 - Запрашивать у YaGPT2 игру, похожую на названную.
 
-[![Watch the video]()(https://github.com/Corvuvr/GameSearcherChatBot/blob/main/Files/demo.mp4)
+[![Watch the video]()(https://drive.google.com/file/d/1cgKsot9qNGet0VKQFFChquX9_sKIbi5I/view?usp=sharing)
 
 У меня закончилась подписка на сервис - по этой причине, 
 чтобы сымитировать работу сервиса Salebot, я написал тест simulateBotTest.py.
