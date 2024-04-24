@@ -1,0 +1,23 @@
+{
+    "Query 0": 
+    {
+        "TableLocation": "Files/games_light.csv"
+    },
+    "Query 1": 
+    {
+        "Metacritic": 70, 
+        "Year 1": "2005", 
+        "Year 2": 2009, 
+        "Genres": "Action, RPG", 
+        "TableLocation": "Files/games_light.csv"
+    },
+    "Query 2": 
+    {
+        "Game": "Divinity 2 Ego draconis", 
+        "TableLocation": "Files/games_light.csv",  
+        "YandexCloudId": "PASTE_YOR_OWN_DO_NOT_SHOW_ANYONE",
+        "YaGPTSecretKey": "PASTE_YOR_OWN_DO_NOT_SHOW_ANYONE"
+    }        
+}
+
+
