@@ -11,8 +11,8 @@
 ![Gif Demo](https://github.com/Corvuvr/GameSearcherChatBot/blob/main/Files/demo.gif)
 
 У меня закончилась подписка на сервис - по этой причине, 
-чтобы сымитировать работу сервиса Salebot, я написал тест simulateBotTest.py.
-Но код может выполняться и самостоятельно - пример в simpleScenarioTest.py.
+чтобы сымитировать работу сервиса Salebot, я написал тест `simulateBotTest.py`.
+Но код может выполняться и самостоятельно - пример в `simpleScenarioTest.py`.
 
 ## Как Запустить
 
